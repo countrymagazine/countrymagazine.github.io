@@ -21,13 +21,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
 author: 'countrymagazine'
 nickname: 'countrymagazine'
 bio: 'pwn学习'
-avatar: '/assets/img/五月天.JFIF'
+avatar: '/assets/img/五月天.jfif'
 
 # Search
 search: true

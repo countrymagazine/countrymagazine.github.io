@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Welcome to countrymagazine!'
+subtitle: 'pwn学习'
+date: 2021-5-20
+categories: pwn
+cover: 'https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E4%BA%94%E6%9C%88%E5%A4%A9&step_word=&hs=0&pn=0&spn=0&di=82280&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=598573778%2C470524785&os=2095335195%2C1332023206&simid=0%2C0&adpicid=0&lpn=0&ln=2932&fr=&fmq=1621524919946_R&fm=&ic=undefined&s=undefined&hd=1&latest=0&copyright=0&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fimg.dahepiao.com%2Fuploads%2Fallimg%2F190618%2F93380-1Z61P92254K8.jpg%26refer%3Dhttp%3A%2F%2Fimg.dahepiao.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1624117079%26t%3D5cce1d12ce1211a7c1608eb3733a424c&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B1wijrtw5_z%26e3Bv54AzdH3Fgjof8AzdH3Fywgvi7AzdH3Fda8ba08mnlb0d_z%26e3Bip4s&gsm=1&rpstart=0&rpnum=0&islist=&querylist=&force=undefined'
+tags: pwn、gdb
+---
+
 # gdb动态调试及解决其中遇到的问题
 
 ## 动态调试代码：

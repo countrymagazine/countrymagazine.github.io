@@ -1,3 +1,12 @@
+---
+layout: post
+title: '解决Github响应时间过长'
+subtitle: 'countrymagazine'
+date: 2021-5-21
+categories: github
+cover: ''
+tags: github
+---
 # 解决GitHub响应时间过长
 
 
